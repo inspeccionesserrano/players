@@ -1,4 +1,5 @@
 $("#stream1").icast({
-URL: "https://streamssl.eu:2330",
+URL: "https://app.sonicpanelradio.com:8130",
 version: "2",
 })
+
